@@ -1,0 +1,36 @@
+body{
+	background-color: #9fd4d4;
+	margin: 0;
+}
+
+
+.outros{
+	max-width: 1200px;
+	
+	margin: 0px auto;
+	bottom: 15px;
+	top: 50px;
+	background-color: white;
+}
+
+
+.meio{
+	max-width: 800px;
+	margin: 0px auto;
+}
+
+
+body img{ 
+	max-width: 800px;
+	margin: 60px auto;
+
+ }
+
+
+
+
+
+
+
+
+
